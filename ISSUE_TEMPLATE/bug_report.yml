@@ -1,0 +1,39 @@
+---
+name: Bug Report
+about: Report a bug in the package
+title: "[BUG] "
+labels: bug
+assignees: ""
+---
+
+## Description
+
+## Minimal Reproducible Example
+
+Hint: Use [reprex](https://reprex.tidyverse.org/)
+
+```r
+# paste your reprex here
+library(yourpackage)
+
+```
+
+## Expected Behavior
+
+## Actual Behavior
+
+```
+# paste error / output here
+```
+
+## Session Info
+Paste the output of `sessionInfo()` or `devtools::session_info()` here.
+
+<details>
+<summary>Session info</summary>
+
+```r
+
+```
+
+</details>
