@@ -10,30 +10,9 @@ assignees: ""
 
 ## Minimal Reproducible Example
 
-Hint: Use [reprex](https://reprex.tidyverse.org/)
-
-```r
-# paste your reprex here
-library(yourpackage)
-
-```
-
 ## Expected Behavior
 
 ## Actual Behavior
 
-```
-# paste error / output here
-```
+## Session Info - `sessionInfo()` or `devtools::session_info()`
 
-## Session Info
-Paste the output of `sessionInfo()` or `devtools::session_info()` here.
-
-<details>
-<summary>Session info</summary>
-
-```r
-
-```
-
-</details>
